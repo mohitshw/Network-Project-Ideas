@@ -5,7 +5,7 @@ This repository contains 100 network project ideas for learning how networks wor
 
 ### Getting Started
 
-* Clone the repository using `git clone https://github.com/mohitsha12/network-project-ideas.git`
+* Clone the repository using `git clone https://github.com/mohitshw/network-project-ideas.git`
 * Explore the projects in the [`projects.md`](projects.md) file
 * Start implementing your chosen projects!
 
